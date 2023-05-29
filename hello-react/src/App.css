@@ -1,0 +1,74 @@
+.App {}
+
+.Nav {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20vh;
+  padding-right: 20vh;
+}
+
+.Body {
+  background-color: #282c34;
+  min-height: 40rem;
+}
+
+.Hello {
+  color: white;
+  font-size: 4rem;
+  width: 23rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 10rem;
+  padding-left: 20vh;
+}
+
+.SubTitle {
+  color: white;
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+  width: 18rem;
+  padding-left: 20vh;
+}
+
+.Awesome {
+  width: 9rem;
+  height: 3rem;
+  border-radius: 0.3rem;
+  font-size: 1.3rem;
+  margin-left: 20vh;
+  margin-top: 3rem;
+  color: #282c34;
+  background-color: white;
+  border: none;
+}
+
+.Information {
+  margin-top: 29vh;
+  margin-bottom: 29vh;
+  padding-left: 20vh;
+  padding-right: 20vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Icons {
+  width: 9rem;
+}
+
+.InfoName {
+  color: #282c34;
+  font-size: 2rem;
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.Text {
+  color: #282c34;
+  margin-top: 0.5rem;
+  padding-left: 1rem;
+}
